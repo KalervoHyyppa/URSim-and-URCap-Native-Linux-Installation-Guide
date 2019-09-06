@@ -1,8 +1,8 @@
-## Last Updated September 2019
+### Last Updated September 2019
 
-# There may be some issues that aren’t covered in this quick guide and will be updated in the future.
+## There may be some issues that aren’t covered in this quick guide and will be updated in the future.
 
-### URSim and URCap Installation Guide on Ubuntu – No Virtual Machine Necessary 
+# URSim and URCap Installation Guide on Ubuntu – No Virtual Machine Necessary 
 
 This guide goes over how to Install URSim natively to Ubuntu 18.04 systems.
 
